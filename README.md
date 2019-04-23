@@ -4,6 +4,6 @@ In this project I am showing how to parse JSON into table view using "Decodable"
 
 Project is not auto-layout which means it fits only for iPhone X devices. This was demonstration of code not auto-layout options. 
 
-<img src="https://i.imgur.com/W7iog7F.png" width="360" height="640">
-<br>
+<img src="https://i.imgur.com/W7iog7F.png" width="360" height="640"> 
 <img src="https://i.imgur.com/2SnefHl.gif" width="360" height="640">
+
